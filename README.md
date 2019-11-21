@@ -1,6 +1,6 @@
 # Wormhole
 
-Wormhole is Temporal's high performance gateway, initially targetting Public and Private IPFS Networks
+Wormhole is a collection of open-source tooling for TemporalX gateways, and go-ipfs gateways.
 
 # Nginx
 
